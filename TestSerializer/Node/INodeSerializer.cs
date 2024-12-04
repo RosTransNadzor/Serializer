@@ -149,10 +149,8 @@ public class BinaryNodeSerializer : INodeSerializer
     private async Task<int> ReadIntAsync()
     {
         var buffer = new byte[4];
-        
 
         int bytesRead = await _stream.ReadAsync(buffer, 0, 4);
-        
 
         if (bytesRead != 4)
             throw new InvalidOperationException("There is not enough data to read an integer.");
