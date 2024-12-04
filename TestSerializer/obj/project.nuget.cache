@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGK+jipzyeg=",
+  "success": true,
+  "projectFilePath": "F:\\Rider\\TestSerializer\\TestSerializer\\TestSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Марина\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
+    "C:\\Users\\Марина\\.nuget\\packages\\bogus.text\\35.6.1\\bogus.text.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
